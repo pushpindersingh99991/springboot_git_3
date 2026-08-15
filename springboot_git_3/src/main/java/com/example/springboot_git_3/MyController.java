@@ -2,4 +2,9 @@ package com.example.springboot_git_3;
 
 public class MyController {
 
+	public void display_2()
+	{
+		System.out.println("Display 2 Method");
+	}
+	
 }
