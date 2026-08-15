@@ -6,4 +6,10 @@ public class MyController {
 	{
 		System.out.println("Display 1");
 	}
+
+	public void display_2()
+	{
+		System.out.println("Display 2 Method");
+	}
+
 }
