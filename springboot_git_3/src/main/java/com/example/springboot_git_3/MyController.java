@@ -13,4 +13,8 @@ public class MyController {
 	public void display_10_3() {
 		System.out.println("10_3 Method");
 	}
+	
+	public void display_10_4() {
+		System.out.println("10_4 Method");
+	}
 }
