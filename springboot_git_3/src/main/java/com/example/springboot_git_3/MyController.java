@@ -9,4 +9,8 @@ public class MyController {
 	public void display_10_2() {
 		System.out.println("10_2 Method");
 	}
+	
+	public void display_10_3() {
+		System.out.println("10_3 Method");
+	}
 }
