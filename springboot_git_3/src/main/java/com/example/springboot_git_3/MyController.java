@@ -14,4 +14,8 @@ public class MyController {
 			System.out.println("9_1 Method");
 		}
 
+		
+		public void display_9_2() {
+			System.out.println("9_2 Method");
+		}
 }
